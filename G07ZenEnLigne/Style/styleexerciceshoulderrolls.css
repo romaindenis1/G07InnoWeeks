@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     max-width: 100% ;
     overflow-x: hidden ;
     width: 1920px;
@@ -29,14 +30,11 @@ h1 {
     
 }
 .container {
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 200px 400px;
-    grid-gap: 10px;
-    height:50em;
+    padding-top: 100px;
+    width: 100%;
+    
 }
+
 #perso1{
     grid-row-start: 2;
     grid-column-start: 1;

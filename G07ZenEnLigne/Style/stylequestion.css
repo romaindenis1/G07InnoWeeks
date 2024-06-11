@@ -6,9 +6,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    overflow-x: hidden ;
     width: 1920px;
-    max-width: 100% ;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .header {
