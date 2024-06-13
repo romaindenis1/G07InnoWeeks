@@ -22,6 +22,9 @@ body {
 h1 {
     margin: 0;
 }
+h1:hover{
+    opacity: 50%;
+}
 .main{
     display: flex;
     flex-direction: column;
@@ -87,7 +90,7 @@ background-color: #a4d998;
     background-color: red;
 }
 .button:hover {
-    background-color: #c0c0c0;
+    opacity: 50%;
 }
 
 footer {

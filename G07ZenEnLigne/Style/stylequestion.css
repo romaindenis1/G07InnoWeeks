@@ -21,6 +21,9 @@ body {
 h1 {
     margin: 0;
 }
+h1:hover{
+    opacity: 50%;
+}
 .main{
     display: flex;
     flex-direction: column;
@@ -81,6 +84,8 @@ a{
     .button {
         display: flex;
         flex-direction: column;
+        padding: 15px 30px;
+justify-content: space-between;
     }
     body {
         font-family: sans-serif;
@@ -93,6 +98,7 @@ a{
         justify-content: center;
         height: 100vh;
         width:800px;
+        height: 480px;
     }
     
     .header {
