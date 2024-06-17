@@ -17,7 +17,6 @@ body {
     text-align: center;
     width: 100%;
 }
-
 h1 {
     margin: 0;
 }
@@ -37,7 +36,6 @@ h1:hover{
     
     height:50em;
 }
-
 .personnage {
     width: 400px;
     height: 400px;
@@ -46,7 +44,6 @@ h1:hover{
     margin: 0 150px;
     
 }
-
 .button {
     background-color: #d9d9d9;
     padding: 45px 90px;
@@ -60,11 +57,9 @@ h1:hover{
     justify-content: space-between;
     font-size:larger;
 }
-
 .button:hover {
     background-color: #c0c0c0;
 }
-
 footer {
     text-align: center;
     

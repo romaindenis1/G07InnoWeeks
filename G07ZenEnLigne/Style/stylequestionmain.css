@@ -10,9 +10,8 @@ body {
     max-width: 100%;
     overflow-x: hidden;
 }
- 
 .titre{
-    margin-left: 7em;
+padding-left: 47%;
 }
 .header {
     
@@ -24,11 +23,9 @@ body {
 
     
 }
-
 .navlink{
     padding: 0 10%;
 }
-
 nav{
     padding: 0 10%;
     display: flex;
@@ -37,7 +34,6 @@ nav{
     margin-left: 15em;
     padding-top: 1em;
 }
-
 h1 {
     margin: 0;
     
@@ -58,17 +54,15 @@ h1:hover{
     
     height:50em;
 }
-
 .personnage {
     width: 400px;
     height: 400px;
-    background-color: #d9f0d9;
+    background-color: white;
     border-radius: 50%;
     margin: 0 300px;
 }
-
 .button {
-    background-color: #b5d2da;
+    background-color: white;
     padding: 45px 90px;
     border-radius: 5px;
     text-decoration: none;
@@ -121,9 +115,7 @@ justify-content: space-between;
         width:800px;
         height: 480px;
     }
-    
     .header {
-        background-color: #a4d998;
         padding: 20px; 
         text-align: center;
         width: 100%;
