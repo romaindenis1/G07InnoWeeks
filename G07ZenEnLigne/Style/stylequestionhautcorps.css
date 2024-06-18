@@ -13,6 +13,10 @@ body {
 .titre{
 padding-left: 1000%;
 }
+a{
+  text-decoration: none;
+  color: black;
+}
 .header {
   padding: 20px;   
   width: 100%;
