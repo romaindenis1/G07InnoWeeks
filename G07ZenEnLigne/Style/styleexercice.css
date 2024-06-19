@@ -10,7 +10,9 @@ body {
     max-width: 100% ;
     overflow-x: hidden ;
     width: 1920px;
+    height: 1080px;
 }
+
 
 .header {
     
