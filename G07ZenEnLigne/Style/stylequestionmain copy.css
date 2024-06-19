@@ -18,9 +18,11 @@ padding-left: 47%;
     width: 100%;
     text-align: left;
     display: flex;
-    
+    margin-left: 38%;
 }
-
+a{
+   text-decoration: none; 
+}
 h1 {
     margin: 0;
     

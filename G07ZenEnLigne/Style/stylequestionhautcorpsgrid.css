@@ -11,7 +11,8 @@ body {
   overflow-x: hidden;
 }
 .titre{
-padding-left: 1000%;
+
+
 }
 a{
   text-decoration: none;
@@ -59,6 +60,7 @@ a{
 }
 
 .header {
+  margin-left:40%;
   padding: 20px;   
   width: 100%;
   text-align: left;
