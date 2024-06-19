@@ -59,6 +59,9 @@ h1:hover {
 .personnage {
   width: 400px;
   height: 400px;
+  background-color: white;
+  border-radius: 50%;
+  margin: 0 300px;
 }
 
 .button {
