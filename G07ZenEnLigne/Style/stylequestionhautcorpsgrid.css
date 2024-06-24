@@ -31,7 +31,6 @@ a {
   grid-row-start: 1;
   grid-column-start: 2;
   grid-column-end: 4;
-  padding: 45px 100px;
 }
 #bras {
   grid-row-start: 1;
@@ -47,13 +46,10 @@ a {
   grid-row-start: 2;
   grid-column-start: 3;
   grid-column-end: 5;
-  padding: 45px 110px;
 }
 #dos {
   grid-row-start: 2;
   grid-column-start: 5;
-  grid-column-end: 7;
-  padding: 45px 100px;
 }
 
 .header {
