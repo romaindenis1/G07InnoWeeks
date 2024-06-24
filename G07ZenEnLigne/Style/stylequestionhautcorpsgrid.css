@@ -10,11 +10,8 @@ body {
   max-width: 100%;
   overflow-x: hidden;
 }
-.titre{
 
-
-}
-a{
+a {
   text-decoration: none;
   color: black;
 }
@@ -60,38 +57,35 @@ a{
 }
 
 .header {
-  margin-left:40%;
-  padding: 20px;   
+  margin-left: 40%;
+  padding: 20px;
   width: 100%;
   text-align: left;
   display: flex;
 }
-.navlink{
+.navlink {
   padding: 0 10%;
 }
-nav{
+nav {
   padding: 0 10%;
   display: flex;
   justify-content: space-between;
- text-size-adjust: 10px;
+  text-size-adjust: 10px;
   margin-left: 15em;
   padding-top: 1em;
 }
 h1 {
   margin: 0;
-  
 }
-h1:hover{
+h1:hover {
   opacity: 50%;
 }
-
-  
 
 .container {
   display: flex;
   justify-content: center;
   align-items: center;
-  height:50em;
+  height: 50em;
 }
 .personnage {
   width: 400px;
@@ -100,8 +94,8 @@ h1:hover{
   border-radius: 50%;
   margin: 0 300px;
 }
-img{
-  height:267px;
+img {
+  height: 267px;
   margin-left: 68px;
   margin-top: 50px;
 }
@@ -116,7 +110,7 @@ img{
   text-align: center;
   display: flex;
   justify-content: space-between;
-  font-size:larger;
+  font-size: larger;
 }
 .button:hover {
   background-color: #fb86ff;
@@ -125,87 +119,86 @@ footer {
   text-align: center;
 }
 
-.titre{
+.titre {
   padding-top: 15px;
   padding-bottom: 25px;
-  }
-@media screen and (max-width: 800px){
+}
+@media screen and (max-width: 800px) {
   .button {
-      display: flex;
-      flex-direction: column;
-      padding: 15px 30px;
-justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 30px;
+    justify-content: space-between;
   }
   body {
-      font-family: sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      width:800px;
-      height: 480px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 800px;
+    height: 480px;
   }
   .header {
-      padding: 20px; 
-      text-align: center;
-      width: 100%;
-      margin-top: -25px;
-      
-      width:1080px;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    margin-top: -25px;
+
+    width: 1080px;
   }
   h1 {
-      margin: 0;
-      z-index: 2;
+    margin: 0;
+    z-index: 2;
   }
-  .main{
-      display: flex;
-      flex-direction: column;
-      align-content: space-between;
-      gap: 15px;
+  .main {
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    gap: 15px;
   }
   .container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin-top: 50px;
-      height:12em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 12em;
   }
   .personnage {
-      width: 200px;
-      height: 200px;
-      background-color: #d9f0d9;
-      border-radius: 50%;
-      margin: 0 50px;
+    width: 200px;
+    height: 200px;
+    background-color: #d9f0d9;
+    border-radius: 50%;
+    margin: 0 50px;
   }
   .button {
-      background-color: #d9d9d9;
-      padding: 15px 30px;
-      text-decoration: none;
-      border-radius: 5px;
-      color: #333;
-      font-weight: bold;
-      margin-bottom: 20px;
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-  }  
+    background-color: #d9d9d9;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
   .button:hover {
-      background-color: #c0c0c0;
+    background-color: #c0c0c0;
   }
   footer {
-      text-align: center;
-      margin-top: 55px;
-     
+    text-align: center;
+    margin-top: 55px;
   }
-  .questions{
-      display: flex;
-      flex-direction: row;
-      align-content: space-between;
-      gap: 10px;
+  .questions {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    gap: 10px;
   }
 }
