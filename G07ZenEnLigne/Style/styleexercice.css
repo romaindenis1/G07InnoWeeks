@@ -133,7 +133,7 @@ a {
   }
 
   .header {
-    background-color: #a4d998;
+    background: linear-gradient(70deg, #5334ff, pink);
     padding: 20px;
     text-align: center;
     width: 100%;
@@ -198,5 +198,10 @@ a {
   a {
     color: #333;
     text-decoration: none;
+  }
+  video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
