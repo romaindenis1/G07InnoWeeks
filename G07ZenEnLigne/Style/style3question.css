@@ -50,19 +50,7 @@ h1:hover {
 
   height: 50em;
 }
-/*.personnage {
-    width: 400px;
-    height: 400px;
-    background-color: white;
-    border-radius: 50%;
-    margin: 0 300px;
-}
- 
-img{
-    height:267px;
-    margin-left: 68px;
-    margin-top: 50px;
-}*/
+
 .button {
   background-color: white;
   padding: 45px 90px;
@@ -181,10 +169,7 @@ a {
     color: #333;
     text-decoration: none;
   }
-  /*img {
-    height: 50%;
-    padding-bottom: 5px;
-  }*/
+
   .titre {
     margin: 0%;
     padding-bottom: 25px;
