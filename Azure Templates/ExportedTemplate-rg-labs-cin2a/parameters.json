@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_VMsrv_InnoWeeks_G07_name": {
+            "value": null
+        },
+        "publicIPAddresses_VMsrv_InnoWeeks_G07_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_VMsrv_InnoWeeks_G07_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_vmsrv_innoweeks_g07847_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VMsrv_InnoWeeks_G07_nsg_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vmsrv_innoweeks_g07_name": {
+            "value": null
+        }
+    }
+}
